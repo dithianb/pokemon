@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+.contenedor{
+    width: 1200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+}
+.banner{
+    height: 300px;
+}
+.menu{
+    height: 50px;
+    padding-top: 20px;
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    background-color: #438bd8;
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+}
+a .btn:hover{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    padding-top: 60px;
+}
+.texto{
+    width: 600px;
+    height: 500px;
+    float: left;
+    line-height: 150%;
+    padding: 40px;
+    padding-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+
+}
+.imagen{
+    padding-top: 20px;
+    width: 600px;
+    height: 500px;
+    float: right;
+}
+.imagen2{
+    padding-top: 20px;
+    width: 600px;
+    height: 500px;
+    float: left;
+}
+.texto2{
+    width: 600px;
+    height: 500px;
+    float: left;
+    line-height: 150%;
+    padding: 40px;
+    padding-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.videojuegotxt{
+    height: 300px;
+    line-height: 150%;
+    padding: 40px;
+    padding-top: 85px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.imgvdgm{
+    height: 600px;
+}
+.videojuegotxt2{
+    height: 500px;
+    line-height: 150%;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.serietxt{
+    height: 600px;
+    line-height: 150%;
+    padding: 40px;
+    padding-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.imgserie{
+    height: 600px;
+}
+.pie{
+    height: 100px;
+    width: 1200px;
+    float:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #438bd8;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.redes{
+    height: 64px;
+    width: 64px;
+    float: right;
+    margin-right: 20px;
+}
+
